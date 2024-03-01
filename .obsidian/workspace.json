@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "d4111346faa10e7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7100cf04c87856e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09c94b41fa2326fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/ch1/1.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38c78cef96f5f181",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61fe495e7a720de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b35a70856fe7014",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7a8b2119d49e7cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24db41cebd3c0542",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc560448d0746b3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c28467b5409e4eae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b5a32b85564d0a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/ch1/1.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0e58170c3d15e97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/ch1/1.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1983591a378a6f84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c97034d2eea7a5fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/ch1/1.1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "09c94b41fa2326fc",
+  "lastOpenFiles": [
+    "book/elasticlunr.min.js",
+    "book/mark.min.js",
+    "book/searcher.js",
+    "book/searchindex.js",
+    "book/searchindex.json",
+    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
+    "book/fonts/open-sans-v17-all-charsets-800italic.woff2",
+    "book/fonts/open-sans-v17-all-charsets-800.woff2",
+    "book/fonts/open-sans-v17-all-charsets-700italic.woff2",
+    "src/ch1_所有权.md",
+    "src/ch1/1.1.md",
+    "stack_frame.png",
+    "book/fonts/open-sans-v17-all-charsets-700.woff2",
+    "src/SUMMARY.md",
+    "src/ch/1.1.md",
+    "src/preface.md",
+    "src/1.1.md",
+    "src/src/1.2.md",
+    "src/src/1.1.md",
+    "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "src/ch1所有权.md",
+    "src/1所有权.md",
+    "src/1.2.md",
+    "src/chapter_1.md",
+    "src/chapter3.md",
+    "src/ch1/1.2.md",
+    "src/postscript.md"
+  ]
+}
