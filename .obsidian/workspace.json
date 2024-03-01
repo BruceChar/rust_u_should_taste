@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/ch1/1.1.md",
+                "file": "src/ch1/drop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/ch1/1.1.md",
+                "file": "src/ch1/drop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/ch1/1.1.md",
+                "file": "src/ch1/drop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/ch1/1.1.md"
+                "file": "src/ch1/drop.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "09c94b41fa2326fc",
   "lastOpenFiles": [
+    "src/ch1/ownership.md",
+    "src/SUMMARY.md",
+    "src/ch1/drop.md",
+    "src/ch1_所有权.md",
+    "src/chapter_2.md",
+    "book/ch1/drop.html",
+    "book/ch1/ownership.html",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
@@ -156,12 +163,7 @@
     "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
     "book/fonts/open-sans-v17-all-charsets-800italic.woff2",
     "book/fonts/open-sans-v17-all-charsets-800.woff2",
-    "book/fonts/open-sans-v17-all-charsets-700italic.woff2",
-    "src/ch1_所有权.md",
-    "src/ch1/1.1.md",
     "stack_frame.png",
-    "book/fonts/open-sans-v17-all-charsets-700.woff2",
-    "src/SUMMARY.md",
     "src/ch/1.1.md",
     "src/preface.md",
     "src/1.1.md",
