@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7a00f66778c52c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/chapter3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4de26b80ea0d66ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/Async.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/ch1/drop.md",
+                "file": "src/Async.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/ch1/drop.md",
+                "file": "src/Async.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/ch1/drop.md"
+                "file": "src/Async.md"
               }
             }
           }
@@ -146,13 +171,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "09c94b41fa2326fc",
+  "active": "6b35a70856fe7014",
   "lastOpenFiles": [
+    "src/chapter3.md",
+    "src/Async.md",
+    "src/postscript.md",
+    "src/chapter_2.md",
+    "Reborrow.md",
+    "src/ch1/drop.md",
     "src/ch1/ownership.md",
     "src/SUMMARY.md",
-    "src/ch1/drop.md",
     "src/ch1_所有权.md",
-    "src/chapter_2.md",
     "book/ch1/drop.html",
     "book/ch1/ownership.html",
     "book/elasticlunr.min.js",
@@ -174,8 +203,6 @@
     "src/1所有权.md",
     "src/1.2.md",
     "src/chapter_1.md",
-    "src/chapter3.md",
-    "src/ch1/1.2.md",
-    "src/postscript.md"
+    "src/ch1/1.2.md"
   ]
 }
