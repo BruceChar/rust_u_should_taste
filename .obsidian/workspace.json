@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Async.md",
+                "file": "pages/Rust的控制语句.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Async.md",
+                "file": "pages/Rust的控制语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Async.md",
+                "file": "pages/Rust的控制语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Async.md"
+                "file": "pages/Rust的控制语句.md"
               }
             }
           }
@@ -171,14 +171,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6b35a70856fe7014",
+  "active": "4de26b80ea0d66ed",
   "lastOpenFiles": [
+    "src/ch1/drop.md",
+    "pages/Rust的控制语句.md",
+    "pages",
     "src/chapter3.md",
     "src/Async.md",
     "src/postscript.md",
     "src/chapter_2.md",
     "Reborrow.md",
-    "src/ch1/drop.md",
     "src/ch1/ownership.md",
     "src/SUMMARY.md",
     "src/ch1_所有权.md",
@@ -191,7 +193,6 @@
     "book/searchindex.json",
     "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
     "book/fonts/open-sans-v17-all-charsets-800italic.woff2",
-    "book/fonts/open-sans-v17-all-charsets-800.woff2",
     "stack_frame.png",
     "src/ch/1.1.md",
     "src/preface.md",
