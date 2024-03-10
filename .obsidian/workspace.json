@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42e708cc4a1cf1de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Rust const.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fc560448d0746b3d",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Rust的控制语句.md",
+                "file": "pages/Rust const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Rust的控制语句.md",
+                "file": "pages/Rust const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Rust的控制语句.md"
+                "file": "pages/Rust const.md"
               }
             }
           }
@@ -171,10 +184,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4de26b80ea0d66ed",
+  "active": "42e708cc4a1cf1de",
   "lastOpenFiles": [
-    "src/ch1/drop.md",
+    "pages/Rust表达式与语句.md",
+    "pages/Rust const.md",
     "pages/Rust的控制语句.md",
+    "src/ch1/drop.md",
     "pages",
     "src/chapter3.md",
     "src/Async.md",
