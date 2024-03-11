@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Rust const.md",
+                "file": "pages/Rust语句.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Rust const.md",
+                "file": "pages/Rust语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Rust const.md",
+                "file": "pages/Rust语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Rust const.md"
+                "file": "pages/Rust语句.md"
               }
             }
           }
@@ -186,19 +186,20 @@
   },
   "active": "42e708cc4a1cf1de",
   "lastOpenFiles": [
-    "pages/Rust表达式与语句.md",
-    "pages/Rust const.md",
+    "src/Async.md",
+    "src/ch1_所有权.md",
+    "src/chapter_2.md",
+    "src/chapter3.md",
+    "src/SUMMARY.md",
+    "src/preface.md",
+    "pages/Rust语句.md",
+    "src/postscript.md",
     "pages/Rust的控制语句.md",
+    "pages/Rust const.md",
     "src/ch1/drop.md",
     "pages",
-    "src/chapter3.md",
-    "src/Async.md",
-    "src/postscript.md",
-    "src/chapter_2.md",
     "Reborrow.md",
     "src/ch1/ownership.md",
-    "src/SUMMARY.md",
-    "src/ch1_所有权.md",
     "book/ch1/drop.html",
     "book/ch1/ownership.html",
     "book/elasticlunr.min.js",
@@ -210,7 +211,6 @@
     "book/fonts/open-sans-v17-all-charsets-800italic.woff2",
     "stack_frame.png",
     "src/ch/1.1.md",
-    "src/preface.md",
     "src/1.1.md",
     "src/src/1.2.md",
     "src/src/1.1.md",
